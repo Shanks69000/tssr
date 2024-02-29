@@ -3,9 +3,9 @@
 
 
 
-**Adresse :** 12 rue melina mercouri 69330 Meyzieu
-**Téléphone :** 06.63.29.55.66
-**Email :** legay.damien69@gmail.com
+*Adresse :* 12 rue melina mercouri 69330 Meyzieu
+*Téléphone :* 06.63.29.55.66
+*Email :* legay.damien69@gmail.com
 
 
 
