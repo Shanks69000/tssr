@@ -10,4 +10,4 @@
 | man | Get-Help | Get-Help man |
 | history | Get-History | Get-Help history |
 | alias | New-Alias / Set-Alias / Get-Alias | Get-Help alias |
-| cat | Get-Content | Colonne 2 | Get-Help cat |
+| cat | Get-Content | Get-Help cat |
